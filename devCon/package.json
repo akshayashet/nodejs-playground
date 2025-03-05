@@ -1,0 +1,20 @@
+{
+  "name": "devcon",
+  "version": "1.0.0",
+  "description": "Connect with devs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sec/app.js",
+    "dev": "nodemon sec/app.js"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "react"
+  ],
+  "author": "Akshaya Mallyar Shet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
