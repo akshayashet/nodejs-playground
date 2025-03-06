@@ -4,8 +4,8 @@
   "description": "Connect with devs",
   "main": "index.js",
   "scripts": {
-    "start": "node sec/app.js",
-    "dev": "nodemon sec/app.js"
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
   },
   "keywords": [
     "node",
